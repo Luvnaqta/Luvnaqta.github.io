@@ -87,3 +87,5 @@ section#About {
 section#Photos {
 	background:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(../bootiful3.jpg) no-repeat center center/cover;
 }
+ .col-xs-12{
+z-index:1; }
